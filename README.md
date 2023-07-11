@@ -1,2 +1,4 @@
-# Git e GitHub!
- Primeiro repositório criado sozinha
+# Git e GitHub! 🌻
+---
+
+ Primeiro repositório criado sozinha. 🖤
