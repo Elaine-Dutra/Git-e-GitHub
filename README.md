@@ -1,2 +1,2 @@
-# Git e GitHub
- Primeiro Repositório Sozinha
+# Git e GitHub!
+ Primeiro repositório criado sozinha
